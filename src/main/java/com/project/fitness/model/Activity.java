@@ -31,6 +31,7 @@ public class Activity {
     private Map<String , Object> attributes;
 
 
+
     @Enumerated(EnumType.STRING)
     private ActivityType type;
     private Integer duration;
